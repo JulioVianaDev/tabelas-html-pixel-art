@@ -2,3 +2,15 @@ body{
   background-color: black;
   color: white;
 }
+#titulo{
+  text-align: center;
+}
+th{
+  border: 2px rgb(255, 255, 255) solid;
+}
+#tabela{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
